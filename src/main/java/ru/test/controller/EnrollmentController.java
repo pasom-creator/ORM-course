@@ -1,4 +1,4 @@
-package ru.test;
+package ru.test.controller;
 
 import ru.test.model.Enrollment;
 import ru.test.model.EnrollmentStatus;

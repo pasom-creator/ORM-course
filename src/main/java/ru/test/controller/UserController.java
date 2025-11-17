@@ -1,4 +1,4 @@
-package ru.test;
+package ru.test.controller;
 
 import ru.test.model.User;
 import ru.test.model.UserRole;
